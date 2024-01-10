@@ -67,16 +67,3 @@ p {
 
 }
 
-@media (max-width: 768px){
-  input{
-    margin-left: 35% ;
-  }
-  
-  p{
-    text-align: center;
-  }
-  
-  h1{
-    margin-left: 19vh;
-  }
-}
